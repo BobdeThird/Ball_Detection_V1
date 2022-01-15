@@ -1,4 +1,5 @@
 """
+HOME VERSION
 threshold_counturs.py: Thresholds an image and finds contours and detects balls for FRC 2022
     inspired from: https://github.com/rebels2638/frc-vision-2022/blob/main/countour_threshold_method/threshold_contours.py, https://stackoverflow.com/questions/58016325/thinness-ratio-calculation-wrong-results?noredirect=1&lq=1
 """
